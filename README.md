@@ -36,6 +36,10 @@
   - Encryption combined using AES 256 (Advanced Encryption Standard) and RSA to ensure the most security
 
 ## How To Use
+
+This piece of code uses <a href="https://github.com/phpseclib/phpseclib">phpseclib</a>. The installation steps
+can be found on their page.
+
 Create an account on the <a href="https://authspire.com/sign-up">AuthSpire</a> website.
 Create your application.
 <br>
